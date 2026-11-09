@@ -24,7 +24,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Shared.h">
+    <ClInclude Include="..\..\Common\Shared.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
